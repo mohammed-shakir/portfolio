@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
 	username: "Mohammed Shakir",
-	title: "Hi all, I'm Shakir",
+	title: "Hi, I'm Shakir",
 	subTitle: emoji(
 		"Hi, I'm Mohammed Shakir, a software engineer with a Master's in Computer Engineering. I've worked on a wide range of projects, from machine learning for driver monitoring, to real-time 3D satellite tracking, LiDAR systems, and backend-heavy data platforms. I'm still exploring the fields, always learning, and figuring out where I want to specialize, but I love working on complex, meaningful tech.",
 	),
